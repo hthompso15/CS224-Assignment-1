@@ -1,9 +1,15 @@
+
+
 public class bruteForce {
+    
     public static void main(String[] args) {
 
-        for index = 0 to 2^N-1 {    
-            for j = 0 to N-1 {
-            choose[j] = false
+        int N;
+
+        for (int index = 0 ; math.pow(2,N-1); index++) {    
+            for(int j = 0 ; (N-1) ; j++) {
+            
+                choose[j] = false
         
             }   
             for j = 0 to N-1 {
